@@ -1,3 +1,3 @@
 # Dijkestra
 
-Simple implementation of Dijkestra
+Simple implementation of Dijkestra algorithm
